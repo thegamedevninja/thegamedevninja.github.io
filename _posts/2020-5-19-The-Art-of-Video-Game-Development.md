@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Art of Viddeo Game Devlopment
+title: The Art of Viddeo Game Development
 ---
 <img src="{{ site.baseurl }}/images/art-of-video-game-development-cover.png" alt="art of video game development cover">
 
